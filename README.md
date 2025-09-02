@@ -5,6 +5,6 @@ Go through my repositories. If you want to collaborate or work with me, I'm avai
 - [Telegram](https://t.me/kelechiikizito) 
 - [Email](mailto:kaylaychi77@gmail.com) 
 - [LinkedIn](https://www.linkedin.com/in/kelechi-kizito-ugwu-759598244/) 
-- [Twitter](https://www.x.com/kelechiikizito) 
+- [Twitter](https://www.x.com/Oxkelechii) 
 
 
