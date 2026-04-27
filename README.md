@@ -26,17 +26,10 @@ I'm a blockchain/smart contract engineer and technical writer who builds end-to-
 
 > This is where I'm going deep. Constantly learning, constantly shipping.
 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-%23F05032.svg?style=for-the-badge&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+
 
 **Contracts & Protocols**
-- ERC-20, ERC-721, ERC-4626 vault standards
-- Upgradeable proxies (Transparent & UUPS) via OpenZeppelin
-- EIP-712 typed structured data & off-chain signatures
-- `delegatecall`, storage layout, ABI encoding/decoding
-- Share-based accounting for DeFi vaults and lending pools
-- Reentrancy patterns, access control, custom errors & events
+
 
 **Tooling**
 - **Foundry** — forge, cast, anvil for full contract lifecycle
@@ -70,8 +63,6 @@ I'm a blockchain/smart contract engineer and technical writer who builds end-to-
 ## 🔧 Backend & APIs
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 ---
 
@@ -79,19 +70,11 @@ I'm a blockchain/smart contract engineer and technical writer who builds end-to-
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-I'm comfortable with SQL and NoSQL databases, and I pick the right ORM or query layer for the job — Prisma for relational, Mongoose for Mongo, raw SQL when needed.
 
 ---
 
 ## ☁️ Infrastructure & Deployment
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
@@ -102,17 +85,16 @@ I'm comfortable with SQL and NoSQL databases, and I pick the right ORM or query 
 |---|---|
 | ⛓️ Smart Contracts | DeFi vault patterns, security-aware contract design, advanced Foundry testing |
 | 🌐 Web3 Frontend | wagmi/viem dApp interfaces, on-chain transaction UX |
-| 🏗️ Unigram | Growing the platform to 200+ verified active users at BUK |
 | 📚 Learning | Smart contract auditing, protocol economics, EIP deep-dives |
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YusufsDesigns&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YusufsDesigns&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufsDesigns&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Kelechikizito&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kelechikizito&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelechikizito&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=YusufsDesigns&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Kelechikizito&icon=0&color=6)](https://visitcount.itsvg.in)
