@@ -24,7 +24,7 @@
 
 ## About Me
 
-I'm a blockchain/smart contract engineer and technical writer who builds end-to-end Solidity contracts, production Next.js applications, and writes about technical topics.
+I'm a blockchain/smart contract engineer and technical writer who builds end-to-end Solidity smart contracts, blockchain infra, production Next.js applications, and writes about technical topics.
 
 ---
 
