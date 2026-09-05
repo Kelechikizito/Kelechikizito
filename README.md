@@ -28,16 +28,6 @@ I'm a blockchain/smart contract engineer and technical writer who builds end-to-
 
 ---
 
-## 🗺️ What I'm Working On
-
-| Area | Focus |
-|---|---|
-| ⛓️ Smart Contracts | DeFi vault patterns, security-aware contract design, advanced Foundry testing |
-| 🌐 Web3 Frontend | wagmi/viem dApp interfaces, on-chain transaction UX |
-| 📚 Learning | Smart contract auditing, protocol economics, EIP deep-dives |
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Kelechikizito&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
